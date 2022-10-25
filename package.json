@@ -1,0 +1,13 @@
+{
+  "name": "react-portfolio-website-1",
+  "version": "1.0.0",
+  "description": "My js json file",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node your-script.js"
+  },
+  "author": "Rishabh",
+  "license": "ISC"
+}
